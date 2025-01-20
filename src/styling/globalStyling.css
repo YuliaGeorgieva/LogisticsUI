@@ -1,0 +1,48 @@
+.modal-Height {
+  height: 90% !important;
+  width: 90% !important;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.scroll-modal {
+  height: 500px;
+  overflow: scroll;
+}
+
+.scroll-modal::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.css-kd5a5u {
+  overflow: auto !important;
+  border: none !important;
+}
+
+.css-kd5a5u::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+
+
+.css-1pwmz90-MuiPaper-root-MuiCard-root.MuiPaper-elevation1 {
+  box-shadow: 0px 5px 22px rgb(108 120 149 / 31%), 0px 0px 0px 0.5px rgb(49 34 34 / 0%) !important;
+
+  margin-bottom: 100px;
+}
